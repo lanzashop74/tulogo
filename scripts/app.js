@@ -1,0 +1,1 @@
+Contenido simulado para scripts/app.js
